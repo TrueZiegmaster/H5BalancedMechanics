@@ -1877,7 +1877,7 @@
 				<BasicDamageReduce>0.1</BasicDamageReduce>
 				<AdvancedDamageReduce>0.2</AdvancedDamageReduce>
 				<ExpertDamageReduce>0.3</ExpertDamageReduce>
-				<Evasion_DamageReduce>0.2</Evasion_DamageReduce>
+				<Evasion_DamageReduce>0.35</Evasion_DamageReduce>
 			</SkillDefence>
 			<SkillOffence>
 				<BasicDamageBonus>0.05</BasicDamageBonus>
