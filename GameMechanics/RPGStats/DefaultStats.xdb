@@ -434,7 +434,7 @@
 					<LifeDrainedRP>-90</LifeDrainedRP>
 					<WeakenedRP>-90</WeakenedRP>
 					<RPCoefPowerOfBlood>1.5</RPCoefPowerOfBlood>
-					<AbsoluteRageRP>500</AbsoluteRageRP>
+					<AbsoluteRageRP>250</AbsoluteRageRP>
 					<UltimateBloodRage_RageForLevelDecrease>0.25</UltimateBloodRage_RageForLevelDecrease>
 					<MemoryOfOurBlood_MinRP>50</MemoryOfOurBlood_MinRP>
 					<MemoryOfOurBlood_MaxRP>100</MemoryOfOurBlood_MaxRP>
