@@ -1771,8 +1771,8 @@
 				<SoilBurnDamagePerHeroLevel>8</SoilBurnDamagePerHeroLevel>
 				<StormWind_InitiativePenalty>0.1</StormWind_InitiativePenalty>
 				<StormWind_SpeedPenalty>1</StormWind_SpeedPenalty>
-				<FogVeil_InitiativePenalty>0.1</FogVeil_InitiativePenalty>
-				<FogVeil_DamageDecrease>0.1</FogVeil_DamageDecrease>
+				<FogVeil_InitiativePenalty>0.2</FogVeil_InitiativePenalty>
+				<FogVeil_DamageDecrease>0.16</FogVeil_DamageDecrease>
 				<ElvenLuck_DamageMultiplier>2.25</ElvenLuck_DamageMultiplier>
 				<ImbueArrow_ATBDropOnCast>0</ImbueArrow_ATBDropOnCast>
 			</Ranger>
