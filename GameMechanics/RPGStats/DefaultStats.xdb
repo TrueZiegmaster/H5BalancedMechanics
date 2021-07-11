@@ -1779,7 +1779,7 @@
 			<Runemage>
 				<StrongRune_2ndUseCostMultiplier>2</StrongRune_2ndUseCostMultiplier>
 				<FineRune_ChanceToActivateRuneForFree>50</FineRune_ChanceToActivateRuneForFree>
-				<QuicknessOfMind_InitiativeBonus>0.25</QuicknessOfMind_InitiativeBonus>
+				<QuicknessOfMind_InitiativeBonus>0.4</QuicknessOfMind_InitiativeBonus>
 				<TapRunes_ManaRestorePerKnowledge>0.5</TapRunes_ManaRestorePerKnowledge>
 				<RunicAttunement_EffectDurationInRounds>1</RunicAttunement_EffectDurationInRounds>
 				<RunicAttunement_MoraleBonus>2</RunicAttunement_MoraleBonus>
