@@ -1,5 +1,6 @@
 # H5BalancedMechanics
 
+[EN]
 Minor and Major changes to game mech
 
 [RU]
