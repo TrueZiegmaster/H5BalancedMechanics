@@ -1,14 +1,14 @@
 # ----------------------------------------------------
-# ----------------- Chilling Bones fix 10--------------
+# ----------------- Chilling Bones fix 25--------------
 # ----------------------------------------------------
 #
-# Changes chilling bones return damage from 5% to 10%
+# Changes chilling bones return damage from 5% to 25%
 #
 # -----------------------------------------------------
 --- # ----------- ORIGINAL EXE 3.1 PATCH DATA ------------
 group: Original
 checkAddress:   00000400
 checkBytes:     8D 41 34 C3 CC CC CC CC
-patchAddress:   0065B0AD
-originalBytes:  D8 0D 18 2F E1 00
-patchBytes:     D8 0D 10 2F E1 00
+patchAddress:   0065B0AF
+originalBytes:  18 2F E1
+patchBytes:     58 6A E9
