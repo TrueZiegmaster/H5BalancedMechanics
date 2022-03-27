@@ -6,7 +6,7 @@
 #
 # ----------------------------------------------------
 
---- # --------------- QUANTOMAS 3.1j PATCH DATA ---------------
+--- # --------------- ORIGINAL EXE 3.1 PATCH DATA ---------------
 group: Original
 checkAddress:   00000400
 checkBytes:     8D 41 34 C3 CC CC CC CC
