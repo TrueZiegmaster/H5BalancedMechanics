@@ -1785,7 +1785,7 @@
 				<RunicAttunement_MoraleBonus>2</RunicAttunement_MoraleBonus>
 				<Offensive_MaxOffenseBonus>10</Offensive_MaxOffenseBonus>
 				<Defensive_MaxDefenseBonus>10</Defensive_MaxDefenseBonus>
-				<Distract_EnemyHeroInitiativeDrop>0.6</Distract_EnemyHeroInitiativeDrop>
+				<Distract_EnemyHeroInitiativeDrop>0.3</Distract_EnemyHeroInitiativeDrop>
 				<SetAfire_DamageMultiplier>0.33</SetAfire_DamageMultiplier>
 				<SetAfire_DamageDurationInRounds>3</SetAfire_DamageDurationInRounds>
 				<ShrugDarkness_EnemySpellpowerMultiplier>0.5</ShrugDarkness_EnemySpellpowerMultiplier>
@@ -1877,7 +1877,7 @@
 				<BasicDamageReduce>0.1</BasicDamageReduce>
 				<AdvancedDamageReduce>0.2</AdvancedDamageReduce>
 				<ExpertDamageReduce>0.3</ExpertDamageReduce>
-				<Evasion_DamageReduce>0.35</Evasion_DamageReduce>
+				<Evasion_DamageReduce>0.3</Evasion_DamageReduce>
 			</SkillDefence>
 			<SkillOffence>
 				<BasicDamageBonus>0.05</BasicDamageBonus>
